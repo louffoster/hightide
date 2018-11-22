@@ -1,0 +1,42 @@
+[
+   {
+      type: "Move",
+      help: "This type of card can be played or trashed.\n\nWhen played, Ike moves the direction and distance depicted."
+   },
+   {
+      type: "Item",
+      help: "This type of card can be played or trashed.\n\nIt depicts a helpful item Ike can use."
+   },
+   {
+      type: "ABE",
+      help: "This type of card can be played or trashed.\n\nIt represents a special ability granted to Ike by his ABE implant. ABE cards are powerful and help Ike in difficult times."
+   },
+   {
+      type: "boost",
+      help: "This card can be played or trashed.\n\nTap to activate. Once activated, the next Move, Pony Tank or Diamond Tough will be doubled. This effect can be stacked."
+   },
+   {
+      type: "bat",
+      help: "This card activates immediately and cannot be trashed.\n\nWhen the card timer expires, bats will attack and damage Ike. Use Diamond Tough or Panic Button to prevent."
+   },
+   {
+      type: "rockslide",
+      help: "This card activates immediately and cannot be trashed.\n\nWhen the card timer expires, rocks hit and damage Ike. Use Diamond Tough or Panic Button to prevent."
+   },
+   {
+      type: "slow",
+      help: "This card activates immediately and cannot be trashed.\n\nWhile the card timer is active, Ike will move slowly. Use Panic Button to clear."
+   },
+   {
+      type: "confuse",
+      help: "This card activates immediately and cannot be trashed.\n\nWhile the card timer is active, Ike's left and right are reversed. Use Panic Button To clear."
+   },
+   {
+      type: "wave",
+      help: "This card activates immediately and cannot be trashed.\n\nWhile the card timer is active, the water level rises twice as fast. Use Panic Button to clear."
+   },
+   {
+      type: "malfunction",
+      help: "This card activates immediately and cannot be trashed.\n\nWhile this card is active, ABE is malunctioning and some functions are unavailable. Press Panic Button to clear."
+   }
+]

@@ -1,0 +1,178 @@
+[
+   {
+      imageName: "n1",
+      type: "move",
+      angle: 0,
+      power: 1,
+      count: 6
+   }, 
+   {
+      imageName: "n2",
+      type: "move",
+      angle: 0,
+      power: 2,
+      count: 4
+   },
+   {
+      imageName: "n3",
+      type: "move",
+      angle: 0,
+      power: 3,
+      count: 3
+   },
+   {
+      imageName: "ne1",
+      type: "move",
+      angle: 45,
+      power: 1,
+      count: 4
+   }, 
+   {
+      imageName: "ne2",
+      type: "move",
+      angle: 45,
+      power: 2,
+      count: 3
+   },
+   {
+      imageName: "ne3",
+      type: "move",
+      angle: 45,
+      power: 3,
+      count: 2
+   },
+   {
+      imageName: "e1",
+      type: "move",
+      angle: 90,
+      power: 1,
+      count: 3
+   }, 
+   {
+      imageName: "e2",
+      type: "move",
+      angle : 90,
+      power: 2,
+      count: 2
+   },
+   {
+      imageName: "e3",
+      type: "move",
+      angle: 90,
+      power: 3,
+      count: 1
+   }, 
+   {
+      imageName: "w1",
+      type: "move",
+      angle: 270,
+      power: 1,
+      count: 3
+   }, 
+   {
+      imageName: "w2",
+      type: "move",
+      angle: 270,
+      power: 2,
+      count: 2
+   },
+   {
+      imageName: "w3",
+      type: "move",
+      angle: 270,
+      power: 3,
+      count: 1
+   },
+   {
+      imageName: "nw1",
+      type: "move",
+      angle: 315,
+      power: 1,
+      count: 4
+   }, 
+   {
+      imageName: "nw2",
+      type: "move",
+      angle: 315,
+      power: 2,
+      count: 3
+   },
+   {
+      imageName: "nw3",
+      type: "move",
+      angle: 315,
+      power: 3,
+      count: 2
+   },
+   {
+      imageName: "boost",
+      type: "boost",
+      power: 1,
+      count: 4
+   },
+   {
+      imageName: "protect",
+      type: "defend",
+      count: 2
+   },
+   {
+      imageName: "health1",
+      type: "heal",
+      power: 1,
+      count: 2
+   },
+   {
+      imageName: "health2",
+      type: "heal",
+      power: 2,
+      count: 1
+   },
+   {
+      imageName: "tank",
+      type: "tank",
+      power: 1,
+      count: 2
+   },
+   {
+      imageName: "wild",
+      type: "wild",
+      power: 2,
+      count: 5
+   },
+   {
+      imageName: "bat",
+      type: "hazard",
+      power: 1,
+      count: 2
+   },
+   {
+      imageName: "rockslide",
+      type: "hazard",
+      power: 1,
+      count: 2
+   },
+   {
+      imageName: "slow",
+      type: "reduce",
+      power: 10,
+      count: 2
+   },
+   {
+      imageName: "confuse",
+      type: "flip",
+      power: 10,
+      count: 3
+   },
+   {
+      imageName: "wave",
+      type: "wave",
+      power: 8,
+      count: 2
+   },
+   {
+      imageName: "malfunction",
+      type: "malfunction",
+      power: 6,
+      count: 2
+   }
+]

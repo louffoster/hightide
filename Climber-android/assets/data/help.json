@@ -1,0 +1,32 @@
+[
+   {
+      callout: "A",
+      title: "Stamina Meter",
+      help: "Ike's stamina. Crashing into ledges and various hazards reduce stamina. Items increase it. When empty, Ike falls."
+   },
+   {
+      callout: "B",
+      title: "Progress Meter",
+      help: "Meter showing percentage of the cliff climbed and current water level."
+   },
+   {
+      callout: "C",
+      title: "ABE Center",
+      help: "Shows warning messages from ABE.\nWhen scanner is active, the map is shown here."
+   },
+   {
+      callout: "D",
+      title: "Panic Button",
+      help: "Touch to restock the Card Pool with a set of new cards. Any ongoing hazards will be cleared. "
+   },
+   {
+      callout: "E",
+      title: "Scanner",
+      help: "Touch to view a detailed map of the cliff face. Only available when fully charged. The scan lasts a short time."
+   },
+   {
+      callout: "F",
+      title: "Card Pool",
+      help: "These are the items and actions that are currently available. Tap to use, hold for info or drag to trash. Some cards are hazards that activate immediately. They cannot be trashed."
+   }
+]

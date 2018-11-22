@@ -1,0 +1,1293 @@
+
+game_atlas.png
+format: RGBA8888
+filter: Linear,Nearest
+repeat: none
+menu-l
+  rotate: false
+  xy: 1, 284
+  size: 640, 736
+  orig: 640, 736
+  offset: 0, 0
+  index: -1
+title
+  rotate: false
+  xy: 1, 11
+  size: 653, 271
+  orig: 653, 271
+  offset: 0, 0
+  index: -1
+blocked
+  rotate: false
+  xy: 1, 1
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+blocked2
+  rotate: false
+  xy: 11, 1
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+climbable
+  rotate: false
+  xy: 21, 1
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+climbable2
+  rotate: false
+  xy: 31, 1
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+ike-marker
+  rotate: false
+  xy: 41, 1
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+ike-marker2
+  rotate: false
+  xy: 51, 1
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+cover
+  rotate: false
+  xy: 643, 470
+  size: 362, 550
+  orig: 362, 550
+  offset: 0, 0
+  index: -1
+static-1
+  rotate: false
+  xy: 1007, 1004
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+static-2
+  rotate: false
+  xy: 1007, 986
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+credits
+  rotate: false
+  xy: 643, 368
+  size: 293, 100
+  orig: 293, 100
+  offset: 0, 0
+  index: -1
+scan-dim
+  rotate: false
+  xy: 643, 311
+  size: 145, 55
+  orig: 145, 55
+  offset: 0, 0
+  index: -1
+bat-hit
+  rotate: false
+  xy: 656, 69
+  size: 340, 240
+  orig: 340, 240
+  offset: 0, 0
+  index: -1
+scan-lit
+  rotate: false
+  xy: 790, 311
+  size: 145, 55
+  orig: 145, 55
+  offset: 0, 0
+  index: -1
+help-dim
+  rotate: false
+  xy: 937, 316
+  size: 81, 50
+  orig: 81, 50
+  offset: 0, 0
+  index: -1
+warn-on
+  rotate: false
+  xy: 938, 383
+  size: 85, 85
+  orig: 85, 85
+  offset: 0, 0
+  index: -1
+scan-recharge
+  rotate: false
+  xy: 656, 12
+  size: 145, 55
+  orig: 145, 55
+  offset: 0, 0
+  index: -1
+google
+  rotate: false
+  xy: 803, 22
+  size: 129, 45
+  orig: 129, 45
+  offset: 0, 0
+  index: -1
+help-lit
+  rotate: false
+  xy: 934, 17
+  size: 81, 50
+  orig: 81, 50
+  offset: 0, 0
+  index: -1
+
+game_atlas2.png
+format: RGBA8888
+filter: Linear,Nearest
+repeat: none
+menu-r
+  rotate: false
+  xy: 1, 282
+  size: 640, 736
+  orig: 640, 736
+  offset: 0, 0
+  index: -1
+rockslide-hit
+  rotate: false
+  xy: 1, 40
+  size: 340, 240
+  orig: 340, 240
+  offset: 0, 0
+  index: -1
+332silver
+  rotate: false
+  xy: 343, 143
+  size: 400, 137
+  orig: 400, 137
+  offset: 0, 0
+  index: -1
+s332smetal
+  rotate: false
+  xy: 343, 41
+  size: 293, 100
+  orig: 293, 100
+  offset: 0, 0
+  index: -1
+card-active
+  rotate: false
+  xy: 638, 53
+  size: 145, 88
+  orig: 145, 88
+  offset: 0, 0
+  index: -1
+pause-dim
+  rotate: false
+  xy: 638, 1
+  size: 81, 50
+  orig: 81, 50
+  offset: 0, 0
+  index: -1
+pause-lit
+  rotate: false
+  xy: 721, 1
+  size: 81, 50
+  orig: 81, 50
+  offset: 0, 0
+  index: -1
+right_panel2
+  rotate: false
+  xy: 804, 282
+  size: 212, 736
+  orig: 212, 736
+  offset: 0, 0
+  index: -1
+stamina-0
+  rotate: false
+  xy: 804, 45
+  size: 214, 235
+  orig: 214, 235
+  offset: 0, 0
+  index: -1
+abe-dim
+  rotate: false
+  xy: 745, 910
+  size: 51, 108
+  orig: 51, 108
+  offset: 0, 0
+  index: -1
+abe-lit
+  rotate: false
+  xy: 745, 800
+  size: 50, 108
+  orig: 50, 108
+  offset: 0, 0
+  index: -1
+abe-used
+  rotate: false
+  xy: 745, 690
+  size: 50, 108
+  orig: 50, 108
+  offset: 0, 0
+  index: -1
+cliff-top
+  rotate: false
+  xy: 643, 388
+  size: 158, 300
+  orig: 158, 300
+  offset: 0, 0
+  index: -1
+card-highlight
+  rotate: false
+  xy: 643, 298
+  size: 145, 88
+  orig: 145, 88
+  offset: 0, 0
+  index: -1
+locked
+  rotate: false
+  xy: 745, 248
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+ikeDrown
+  rotate: false
+  xy: 643, 818
+  size: 100, 200
+  orig: 100, 200
+  offset: 0, 0
+  index: -1
+music-off
+  rotate: false
+  xy: 643, 716
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+
+game_atlas3.png
+format: RGBA8888
+filter: Linear,Nearest
+repeat: none
+leftedge
+  rotate: false
+  xy: 1, 203
+  size: 64, 800
+  orig: 64, 800
+  offset: 0, 0
+  index: -1
+ikeFall1
+  rotate: false
+  xy: 1, 1
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+rightedge
+  rotate: false
+  xy: 67, 203
+  size: 64, 800
+  orig: 64, 800
+  offset: 0, 0
+  index: -1
+3FrameIntroC
+  rotate: false
+  xy: 133, 267
+  size: 427, 736
+  orig: 427, 736
+  offset: 0, 0
+  index: -1
+next
+  rotate: false
+  xy: 133, 205
+  size: 90, 60
+  orig: 90, 60
+  offset: 0, 0
+  index: -1
+ikeFall2
+  rotate: false
+  xy: 203, 3
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+bat-big
+  rotate: false
+  xy: 405, 5
+  size: 180, 260
+  orig: 180, 260
+  offset: 0, 0
+  index: -1
+3FrameIntroA
+  rotate: false
+  xy: 562, 267
+  size: 426, 736
+  orig: 426, 736
+  offset: 0, 0
+  index: -1
+boost-big
+  rotate: false
+  xy: 587, 5
+  size: 180, 260
+  orig: 180, 260
+  offset: 0, 0
+  index: -1
+confuse-big
+  rotate: false
+  xy: 769, 5
+  size: 180, 260
+  orig: 180, 260
+  offset: 0, 0
+  index: -1
+info
+  rotate: false
+  xy: 951, 165
+  size: 70, 100
+  orig: 70, 100
+  offset: 0, 0
+  index: -1
+quit-alt-lit
+  rotate: false
+  xy: 951, 93
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+quit-alt
+  rotate: false
+  xy: 951, 21
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+
+game_atlas4.png
+format: RGBA8888
+filter: Linear,Nearest
+repeat: none
+3FrameIntroB
+  rotate: false
+  xy: 1, 274
+  size: 426, 736
+  orig: 426, 736
+  offset: 0, 0
+  index: -1
+moon
+  rotate: false
+  xy: 429, 577
+  size: 584, 433
+  orig: 584, 433
+  offset: 0, 0
+  index: -1
+e1-big
+  rotate: false
+  xy: 1, 12
+  size: 180, 260
+  orig: 180, 260
+  offset: 0, 0
+  index: -1
+e2-big
+  rotate: false
+  xy: 183, 12
+  size: 180, 260
+  orig: 180, 260
+  offset: 0, 0
+  index: -1
+e3-big
+  rotate: false
+  xy: 365, 12
+  size: 180, 260
+  orig: 180, 260
+  offset: 0, 0
+  index: -1
+health1-big
+  rotate: false
+  xy: 429, 315
+  size: 180, 260
+  orig: 180, 260
+  offset: 0, 0
+  index: -1
+health2-big
+  rotate: false
+  xy: 547, 53
+  size: 180, 260
+  orig: 180, 260
+  offset: 0, 0
+  index: -1
+heath1-big
+  rotate: false
+  xy: 611, 315
+  size: 180, 260
+  orig: 180, 260
+  offset: 0, 0
+  index: -1
+stamina-1
+  rotate: false
+  xy: 793, 340
+  size: 214, 235
+  orig: 214, 235
+  offset: 0, 0
+  index: -1
+stamina-2
+  rotate: false
+  xy: 793, 103
+  size: 214, 235
+  orig: 214, 235
+  offset: 0, 0
+  index: -1
+music
+  rotate: false
+  xy: 729, 1
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+omega1
+  rotate: false
+  xy: 831, 1
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+left
+  rotate: false
+  xy: 933, 1
+  size: 65, 100
+  orig: 65, 100
+  offset: 0, 0
+  index: -1
+
+game_atlas5.png
+format: RGBA8888
+filter: Linear,Nearest
+repeat: none
+legflip1
+  rotate: false
+  xy: 1, 507
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+legflip2
+  rotate: false
+  xy: 1, 5
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+legflip3
+  rotate: false
+  xy: 503, 507
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+stamina-3
+  rotate: false
+  xy: 503, 270
+  size: 214, 235
+  orig: 214, 235
+  offset: 0, 0
+  index: -1
+recalibrate
+  rotate: false
+  xy: 503, 36
+  size: 211, 232
+  orig: 211, 232
+  offset: 0, 0
+  index: -1
+malfunction-big
+  rotate: false
+  xy: 719, 245
+  size: 180, 260
+  orig: 180, 260
+  offset: 0, 0
+  index: -1
+ikeFall3
+  rotate: false
+  xy: 716, 43
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ikeLeft1
+  rotate: false
+  xy: 901, 305
+  size: 100, 200
+  orig: 100, 200
+  offset: 0, 0
+  index: -1
+ikeRight1
+  rotate: false
+  xy: 901, 305
+  size: 100, 200
+  orig: 100, 200
+  offset: 0, 0
+  index: -1
+ikeRight13
+  rotate: false
+  xy: 901, 305
+  size: 100, 200
+  orig: 100, 200
+  offset: 0, 0
+  index: -1
+ikeLeft10
+  rotate: false
+  xy: 918, 103
+  size: 100, 200
+  orig: 100, 200
+  offset: 0, 0
+  index: -1
+omega2
+  rotate: false
+  xy: 918, 1
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+
+game_atlas6.png
+format: RGBA8888
+filter: Linear,Nearest
+repeat: none
+left_panel2
+  rotate: false
+  xy: 1, 263
+  size: 204, 736
+  orig: 204, 736
+  offset: 0, 0
+  index: -1
+n1-big
+  rotate: false
+  xy: 1, 1
+  size: 180, 260
+  orig: 180, 260
+  offset: 0, 0
+  index: -1
+n2-big
+  rotate: false
+  xy: 207, 739
+  size: 180, 260
+  orig: 180, 260
+  offset: 0, 0
+  index: -1
+n3-big
+  rotate: false
+  xy: 207, 477
+  size: 180, 260
+  orig: 180, 260
+  offset: 0, 0
+  index: -1
+ne1-big
+  rotate: false
+  xy: 389, 739
+  size: 180, 260
+  orig: 180, 260
+  offset: 0, 0
+  index: -1
+ne2-big
+  rotate: false
+  xy: 389, 477
+  size: 180, 260
+  orig: 180, 260
+  offset: 0, 0
+  index: -1
+ne3-big
+  rotate: false
+  xy: 571, 739
+  size: 180, 260
+  orig: 180, 260
+  offset: 0, 0
+  index: -1
+nw1-big
+  rotate: false
+  xy: 571, 477
+  size: 180, 260
+  orig: 180, 260
+  offset: 0, 0
+  index: -1
+nw2-big
+  rotate: false
+  xy: 753, 739
+  size: 180, 260
+  orig: 180, 260
+  offset: 0, 0
+  index: -1
+nw3-big
+  rotate: false
+  xy: 753, 477
+  size: 180, 260
+  orig: 180, 260
+  offset: 0, 0
+  index: -1
+ikeFall4
+  rotate: false
+  xy: 207, 275
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ikeFall5
+  rotate: false
+  xy: 409, 275
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ikeFall6
+  rotate: false
+  xy: 611, 275
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ikeFall7
+  rotate: false
+  xy: 813, 275
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+protect-big
+  rotate: false
+  xy: 183, 1
+  size: 180, 260
+  orig: 180, 260
+  offset: 0, 0
+  index: -1
+rockslide-big
+  rotate: false
+  xy: 365, 13
+  size: 180, 260
+  orig: 180, 260
+  offset: 0, 0
+  index: -1
+slow-big
+  rotate: false
+  xy: 547, 13
+  size: 180, 260
+  orig: 180, 260
+  offset: 0, 0
+  index: -1
+tank-big
+  rotate: false
+  xy: 729, 13
+  size: 180, 260
+  orig: 180, 260
+  offset: 0, 0
+  index: -1
+ikeLeft11
+  rotate: false
+  xy: 911, 73
+  size: 100, 200
+  orig: 100, 200
+  offset: 0, 0
+  index: -1
+right
+  rotate: false
+  xy: 935, 899
+  size: 65, 100
+  orig: 65, 100
+  offset: 0, 0
+  index: -1
+quit-dim
+  rotate: false
+  xy: 935, 827
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+quit-lit
+  rotate: false
+  xy: 935, 755
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+restart-alt-lit
+  rotate: false
+  xy: 935, 683
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+restart-alt
+  rotate: false
+  xy: 935, 611
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+restart-dim
+  rotate: false
+  xy: 935, 539
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+restart-lit
+  rotate: false
+  xy: 911, 1
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+
+game_atlas7.png
+format: RGBA8888
+filter: Linear,Nearest
+repeat: none
+w1-big
+  rotate: false
+  xy: 1, 757
+  size: 180, 260
+  orig: 180, 260
+  offset: 0, 0
+  index: -1
+w2-big
+  rotate: false
+  xy: 1, 495
+  size: 180, 260
+  orig: 180, 260
+  offset: 0, 0
+  index: -1
+w3-big
+  rotate: false
+  xy: 183, 757
+  size: 180, 260
+  orig: 180, 260
+  offset: 0, 0
+  index: -1
+wave-big
+  rotate: false
+  xy: 1, 233
+  size: 180, 260
+  orig: 180, 260
+  offset: 0, 0
+  index: -1
+wild-big
+  rotate: false
+  xy: 183, 495
+  size: 180, 260
+  orig: 180, 260
+  offset: 0, 0
+  index: -1
+ikeFall8
+  rotate: false
+  xy: 365, 817
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ikeLeft12
+  rotate: false
+  xy: 1, 31
+  size: 100, 200
+  orig: 100, 200
+  offset: 0, 0
+  index: -1
+ikeLeft13
+  rotate: false
+  xy: 183, 293
+  size: 100, 200
+  orig: 100, 200
+  offset: 0, 0
+  index: -1
+ikeLeft2
+  rotate: false
+  xy: 365, 615
+  size: 100, 200
+  orig: 100, 200
+  offset: 0, 0
+  index: -1
+ikeLeft3
+  rotate: false
+  xy: 567, 817
+  size: 100, 200
+  orig: 100, 200
+  offset: 0, 0
+  index: -1
+ikeLeft4
+  rotate: false
+  xy: 467, 615
+  size: 100, 200
+  orig: 100, 200
+  offset: 0, 0
+  index: -1
+ikeLeft5
+  rotate: false
+  xy: 669, 817
+  size: 100, 200
+  orig: 100, 200
+  offset: 0, 0
+  index: -1
+ikeLeft6
+  rotate: false
+  xy: 569, 615
+  size: 100, 200
+  orig: 100, 200
+  offset: 0, 0
+  index: -1
+ikeLeft7
+  rotate: false
+  xy: 771, 817
+  size: 100, 200
+  orig: 100, 200
+  offset: 0, 0
+  index: -1
+ikeLeft8
+  rotate: false
+  xy: 671, 615
+  size: 100, 200
+  orig: 100, 200
+  offset: 0, 0
+  index: -1
+ikeLeft9
+  rotate: false
+  xy: 873, 817
+  size: 100, 200
+  orig: 100, 200
+  offset: 0, 0
+  index: -1
+ikeRight10
+  rotate: false
+  xy: 773, 615
+  size: 100, 200
+  orig: 100, 200
+  offset: 0, 0
+  index: -1
+ikeRight11
+  rotate: false
+  xy: 875, 615
+  size: 100, 200
+  orig: 100, 200
+  offset: 0, 0
+  index: -1
+ikeRight12
+  rotate: false
+  xy: 103, 31
+  size: 100, 200
+  orig: 100, 200
+  offset: 0, 0
+  index: -1
+ikeRight2
+  rotate: false
+  xy: 285, 293
+  size: 100, 200
+  orig: 100, 200
+  offset: 0, 0
+  index: -1
+ikeRight3
+  rotate: false
+  xy: 205, 91
+  size: 100, 200
+  orig: 100, 200
+  offset: 0, 0
+  index: -1
+ikeRight4
+  rotate: false
+  xy: 307, 91
+  size: 100, 200
+  orig: 100, 200
+  offset: 0, 0
+  index: -1
+dim-card
+  rotate: false
+  xy: 365, 525
+  size: 145, 88
+  orig: 145, 88
+  offset: 0, 0
+  index: -1
+ikeRight5
+  rotate: false
+  xy: 387, 323
+  size: 100, 200
+  orig: 100, 200
+  offset: 0, 0
+  index: -1
+ikeRight6
+  rotate: false
+  xy: 409, 121
+  size: 100, 200
+  orig: 100, 200
+  offset: 0, 0
+  index: -1
+ikeRight7
+  rotate: false
+  xy: 489, 323
+  size: 100, 200
+  orig: 100, 200
+  offset: 0, 0
+  index: -1
+trash-card
+  rotate: false
+  xy: 512, 525
+  size: 145, 88
+  orig: 145, 88
+  offset: 0, 0
+  index: -1
+ikeRight8
+  rotate: false
+  xy: 511, 121
+  size: 100, 200
+  orig: 100, 200
+  offset: 0, 0
+  index: -1
+ikeRight9
+  rotate: false
+  xy: 591, 323
+  size: 100, 200
+  orig: 100, 200
+  offset: 0, 0
+  index: -1
+ikeUpDown1
+  rotate: false
+  xy: 613, 121
+  size: 100, 200
+  orig: 100, 200
+  offset: 0, 0
+  index: -1
+ikeUpDown7
+  rotate: false
+  xy: 613, 121
+  size: 100, 200
+  orig: 100, 200
+  offset: 0, 0
+  index: -1
+bat
+  rotate: false
+  xy: 659, 525
+  size: 144, 88
+  orig: 144, 88
+  offset: 0, 0
+  index: -1
+ikeUpDown10
+  rotate: false
+  xy: 693, 323
+  size: 100, 200
+  orig: 100, 200
+  offset: 0, 0
+  index: -1
+ikeUpDown11
+  rotate: false
+  xy: 715, 121
+  size: 100, 200
+  orig: 100, 200
+  offset: 0, 0
+  index: -1
+boost
+  rotate: false
+  xy: 805, 525
+  size: 144, 88
+  orig: 144, 88
+  offset: 0, 0
+  index: -1
+ikeUpDown12
+  rotate: false
+  xy: 795, 323
+  size: 100, 200
+  orig: 100, 200
+  offset: 0, 0
+  index: -1
+ikeUpDown2
+  rotate: false
+  xy: 817, 121
+  size: 100, 200
+  orig: 100, 200
+  offset: 0, 0
+  index: -1
+ikeUpDown3
+  rotate: false
+  xy: 897, 323
+  size: 100, 200
+  orig: 100, 200
+  offset: 0, 0
+  index: -1
+ikeUpDown4
+  rotate: false
+  xy: 919, 121
+  size: 100, 200
+  orig: 100, 200
+  offset: 0, 0
+  index: -1
+confuse
+  rotate: false
+  xy: 205, 1
+  size: 144, 88
+  orig: 144, 88
+  offset: 0, 0
+  index: -1
+e1
+  rotate: false
+  xy: 409, 31
+  size: 144, 88
+  orig: 144, 88
+  offset: 0, 0
+  index: -1
+e2
+  rotate: false
+  xy: 555, 31
+  size: 144, 88
+  orig: 144, 88
+  offset: 0, 0
+  index: -1
+e3
+  rotate: false
+  xy: 701, 31
+  size: 144, 88
+  orig: 144, 88
+  offset: 0, 0
+  index: -1
+health1
+  rotate: false
+  xy: 847, 31
+  size: 144, 88
+  orig: 144, 88
+  offset: 0, 0
+  index: -1
+resume-dim
+  rotate: false
+  xy: 951, 543
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+
+game_atlas8.png
+format: RGBA8888
+filter: Linear,Nearest
+repeat: none
+ikeUpDown5
+  rotate: false
+  xy: 1, 275
+  size: 100, 200
+  orig: 100, 200
+  offset: 0, 0
+  index: -1
+ikeUpDown6
+  rotate: false
+  xy: 1, 73
+  size: 100, 200
+  orig: 100, 200
+  offset: 0, 0
+  index: -1
+resume-lit
+  rotate: false
+  xy: 1, 1
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+ikeUpDown8
+  rotate: false
+  xy: 103, 275
+  size: 100, 200
+  orig: 100, 200
+  offset: 0, 0
+  index: -1
+ikeUpDown9
+  rotate: false
+  xy: 103, 73
+  size: 100, 200
+  orig: 100, 200
+  offset: 0, 0
+  index: -1
+omega3
+  rotate: false
+  xy: 205, 375
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+omega4
+  rotate: false
+  xy: 205, 273
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+omega5
+  rotate: false
+  xy: 205, 171
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+omega6
+  rotate: false
+  xy: 205, 69
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+omega7
+  rotate: false
+  xy: 307, 375
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+omega8
+  rotate: false
+  xy: 307, 273
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+sound-off
+  rotate: false
+  xy: 307, 171
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+sound
+  rotate: false
+  xy: 307, 69
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+health2
+  rotate: false
+  xy: 409, 387
+  size: 144, 88
+  orig: 144, 88
+  offset: 0, 0
+  index: -1
+malfunction
+  rotate: false
+  xy: 555, 387
+  size: 144, 88
+  orig: 144, 88
+  offset: 0, 0
+  index: -1
+n1
+  rotate: false
+  xy: 701, 387
+  size: 144, 88
+  orig: 144, 88
+  offset: 0, 0
+  index: -1
+n2
+  rotate: false
+  xy: 847, 387
+  size: 144, 88
+  orig: 144, 88
+  offset: 0, 0
+  index: -1
+n3
+  rotate: false
+  xy: 409, 297
+  size: 144, 88
+  orig: 144, 88
+  offset: 0, 0
+  index: -1
+ne1
+  rotate: false
+  xy: 409, 207
+  size: 144, 88
+  orig: 144, 88
+  offset: 0, 0
+  index: -1
+ne2
+  rotate: false
+  xy: 409, 117
+  size: 144, 88
+  orig: 144, 88
+  offset: 0, 0
+  index: -1
+ne3
+  rotate: false
+  xy: 409, 27
+  size: 144, 88
+  orig: 144, 88
+  offset: 0, 0
+  index: -1
+nw1
+  rotate: false
+  xy: 555, 297
+  size: 144, 88
+  orig: 144, 88
+  offset: 0, 0
+  index: -1
+nw2
+  rotate: false
+  xy: 701, 297
+  size: 144, 88
+  orig: 144, 88
+  offset: 0, 0
+  index: -1
+nw3
+  rotate: false
+  xy: 847, 297
+  size: 144, 88
+  orig: 144, 88
+  offset: 0, 0
+  index: -1
+protect
+  rotate: false
+  xy: 555, 207
+  size: 144, 88
+  orig: 144, 88
+  offset: 0, 0
+  index: -1
+rockslide
+  rotate: false
+  xy: 555, 117
+  size: 144, 88
+  orig: 144, 88
+  offset: 0, 0
+  index: -1
+slow
+  rotate: false
+  xy: 555, 27
+  size: 144, 88
+  orig: 144, 88
+  offset: 0, 0
+  index: -1
+tank
+  rotate: false
+  xy: 701, 207
+  size: 144, 88
+  orig: 144, 88
+  offset: 0, 0
+  index: -1
+w1
+  rotate: false
+  xy: 847, 207
+  size: 144, 88
+  orig: 144, 88
+  offset: 0, 0
+  index: -1
+w2
+  rotate: false
+  xy: 701, 117
+  size: 144, 88
+  orig: 144, 88
+  offset: 0, 0
+  index: -1
+w3
+  rotate: false
+  xy: 847, 117
+  size: 144, 88
+  orig: 144, 88
+  offset: 0, 0
+  index: -1
+wave
+  rotate: false
+  xy: 701, 27
+  size: 144, 88
+  orig: 144, 88
+  offset: 0, 0
+  index: -1
+wild
+  rotate: false
+  xy: 847, 27
+  size: 144, 88
+  orig: 144, 88
+  offset: 0, 0
+  index: -1
